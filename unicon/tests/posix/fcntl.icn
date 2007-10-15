@@ -1,8 +1,0 @@
-
-$include "posix.icn"
-
-procedure main()
-
-   fcntl(&input, "F", "d") | stop("fcntl failed: ", sys_errstr(&errno))
-   line := read() | write("Read failed: ", sys_errstr(&errno))
-end

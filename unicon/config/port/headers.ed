@@ -1,3 +1,0 @@
-g/^#include "\.\.\/h\//s//#include "/g
-w
-q

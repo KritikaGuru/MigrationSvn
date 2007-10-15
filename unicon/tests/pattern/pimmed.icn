@@ -1,5 +1,0 @@
-procedure main()
-   fpat := PSpan(&digits) $$ n && PLen(`n`) -> field   
-   "11abcdefghijklmn" ?? fpat
-   write(field)
-end

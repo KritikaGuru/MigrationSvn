@@ -1,1 +1,0 @@
-#define IconxPath "iconx.exe"

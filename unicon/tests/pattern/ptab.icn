@@ -1,5 +1,0 @@
-procedure main()
-   out := &output
-   s := "abcde"
-   s ?? PTab(3) -> out && PRtab(1) -> out
-end

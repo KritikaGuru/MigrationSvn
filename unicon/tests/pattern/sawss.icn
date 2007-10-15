@@ -1,6 +1,0 @@
-procedure main()
-	 out := &output
-	 sawtooth := PSucceed() && ( PLen(1) && PArb() ) $$ out && PFail()						
-	 "XXXXX" ?? sawtooth
-
-end

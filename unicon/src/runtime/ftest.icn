@@ -1,5 +1,0 @@
-procedure main()
-  &window := open("times24","g","font=times,24")
-  every write(&window, &version)
-  Event()
-end
